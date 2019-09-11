@@ -6,8 +6,7 @@
     <title>Tutorials on js</title>
 </head>
 <body>
-    this is good boy guys
+    this is good boy guys in git hub
 </body>
 
-<script src="js/index.js"></script>
 </html>
